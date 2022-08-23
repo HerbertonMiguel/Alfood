@@ -1,4 +1,4 @@
-![Integrando seu projeto React com APIs](thumbnail.png)
+
 
 # Alfood
 
